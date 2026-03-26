@@ -7,7 +7,7 @@ Founder @ **Innovolve Solutions**
 
 ## 🚀 About Me
 
-I’m Jay — a freelance **AI & Data Consultant** and **Lead Architect Developer** focused on building scalable, intelligent systems that help businesses automate, grow, and innovate.
+I’m Jay a freelance **AI & Data Consultant** and **Lead Architect Developer** focused on building scalable, intelligent systems that help businesses automate, grow, and innovate.
 
 With a strong foundation in **full-stack development, cloud architecture, and AI integration**, I specialize in turning complex ideas into practical, high-impact solutions.
 
