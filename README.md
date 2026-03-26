@@ -1,46 +1,91 @@
 # 👋 Hi, I'm Jay
 
-**AI & Data Consultant | Lead / Architect Developer**
-Founder @ **Innovolve Solutions**
+**AI & Data Consultant | Aspiring Lead / Architect Developer**
+Founder @ Innovolve Solutions
 
 ---
 
 ## 🚀 About Me
 
-I’m Jay a freelance **AI & Data Consultant** and **Lead Architect Developer** focused on building scalable, intelligent systems that help businesses automate, grow, and innovate.
+I’m Jay — a freelance **AI & Data Consultant** with a strong interest in building scalable systems, automation, and data-driven solutions.
 
-With a strong foundation in **full-stack development, cloud architecture, and AI integration**, I specialize in turning complex ideas into practical, high-impact solutions.
+I’m currently in a phase where I’m **actively growing, learning, and applying my skills in real-world projects**, while also exploring new opportunities in professional environments.
 
-At **Innovolve Solutions**, I work with startups and growing companies to:
+At **Innovolve Solutions**, I focus on helping startups and small businesses:
 
-* Design & develop scalable web applications
-* Integrate AI into business workflows
-* Automate operations and reduce manual processes
-* Build data-driven systems for smarter decision-making
-
----
-
-## 🧠 What I Do
-
-* 🤖 AI Integrations (LLMs, automation, agents)
-* 📊 Data Engineering & Analytics Pipelines
-* 🏗️ System Architecture & Scalable Infrastructure
-* 🌐 Full-Stack Development (Web & SaaS)
-* ⚙️ Business Process Automation
-* ☁️ Cloud Solutions (AWS, Azure, GCP)
+* Build and launch web applications
+* Automate repetitive processes
+* Explore AI integrations in a practical way
+* Structure their systems for future growth
 
 ---
 
-## 🏢 Innovolve Solutions
+## 🧠 What I Focus On
 
-**Innovolve Solutions** helps startups and businesses launch faster with:
+* 🤖 AI & Automation (LLMs, workflows, agents)
+* 📊 Data Analysis & Insights
+* 🌐 Full-Stack Development
+* ⚙️ Process Optimization
+* ☁️ Cloud & Scalable Systems (learning & applying)
 
-* Ready-to-deploy systems
-* Custom SaaS platforms
-* AI-powered tools
-* Automation-first workflows
+---
 
-> 💡 Mission: Help businesses focus on what they do best — while we handle the technology.
+## 🧩 Featured Projects
+
+### 📊 Data Analyst
+
+* 📈 **E-commerce Analytics Dashboard**
+  Built a dashboard to track sales and performance metrics across platforms.
+  → Focus: clarity in data & decision-making
+
+* 🧮 **Customer Segmentation (Learning Project)**
+  Applied clustering techniques to group customers based on behavior.
+  → Focus: understanding user patterns
+
+---
+
+### 🔐 Cyber Security
+
+* 🛡️ **Basic Vulnerability Scanner**
+  Developed a Python tool to scan for common web vulnerabilities.
+  → Focus: learning security fundamentals
+
+* 🔍 **Log Monitoring Setup**
+  Experimented with log tracking and anomaly detection.
+  → Focus: system awareness & security basics
+
+---
+
+### 🤖 AI & Machine Learning
+
+* 💬 **AI Chatbot (Custom Use Case)**
+  Built a chatbot to assist with simple workflows and questions.
+  → Focus: practical AI usage
+
+* 🧠 **Automation Scripts with AI**
+  Created scripts that reduce manual work using AI APIs.
+  → Focus: efficiency & experimentation
+
+---
+
+### 📅 Project & Systems
+
+* 🗂️ **SaaS Concept: Driving School Platform**
+  Designed structure and architecture for a scheduling & management system.
+  → Focus: system thinking & scalability
+
+* ⚙️ **Automation Workflows**
+  Built small automation pipelines using APIs and no-code tools.
+  → Focus: reducing repetitive tasks
+
+---
+
+## 🧠 How I Work
+
+* 🔍 Curious and always learning
+* 🧱 Structured in approach
+* ⚡ Focused on practical solutions
+* 📈 Interested in continuous improvement
 
 ---
 
@@ -62,20 +107,11 @@ At **Innovolve Solutions**, I work with startups and growing companies to:
 
 ---
 
-## 📈 Current Focus
-
-* Building AI-powered SaaS products
-* Scaling automation systems for businesses
-* Developing intelligent dashboards & data tools
-* Expanding Innovolve Solutions across Europe
-
----
-
 ## 🤝 Let’s Connect
 
-* 💼 Open for freelance & collaborations
-* 🚀 Building impactful AI-driven solutions
-* 📩 Reach out for projects, partnerships, or ideas
+* 💼 Open to work opportunities
+* 🤝 Open to collaborations & freelance
+* 📩 Feel free to reach out
 
 ---
 
