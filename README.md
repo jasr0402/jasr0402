@@ -7,7 +7,7 @@ Founder @ Innovolve Solutions
 
 ## 🚀 About Me
 
-I’m Jay — a freelance **AI & Data Consultant** with a strong interest in building scalable systems, automation, and data-driven solutions.
+I’m Jay a freelance **AI & Data Consultant** with a strong interest in building scalable systems, automation, and data-driven solutions.
 
 I’m currently in a phase where I’m **actively growing, learning, and applying my skills in real-world projects**, while also exploring new opportunities in professional environments.
 
